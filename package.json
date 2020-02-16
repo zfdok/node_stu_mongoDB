@@ -1,0 +1,29 @@
+{
+  "name": "node_stu_mongodb",
+  "version": "1.0.0",
+  "description": "node_stu_mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfdok/node_stu_mongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zfdok/node_stu_mongoDB/issues"
+  },
+  "homepage": "https://github.com/zfdok/node_stu_mongoDB#readme",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "mongodb": "^3.5.3",
+    "mongoose": "^5.9.1",
+    "nodemon": "^2.0.2"
+  }
+}
